@@ -1,1 +1,5 @@
-
+Requirement 1(User Registration): The User Registration component of the system makes it possible for a new user to register for an account with the Online Food Ordering System. While a user registers for an account, the user is required to provide personal information that may include name, e-mail address, phone number and password. This information is validated to ensure that the e-mail address does not already exist. The significance of this function is that it makes possible the safe access, services, tracking and authentication in the system.
+Requirement 2(Browse menu & search): Users can view available food items categorized by cuisine or price and select items to add to their virtual shopping cart. 
+Requirement 3(Shopping Cart Management): This function allows users to review their selected food items, adjust quantities (increase or decrease), or remove items before proceeding to checkout . The system must automatically recalculate the total price whenever a change is made.
+Requirement 4(Payment Process): This function allows user to pay for the ordered product and directs the money transfer to the vendor.
+Requirement 5(Order Tracking): This requirement handles the financial transaction once the user checks out from the cart. It allows the user to select a payment method, validates the transaction, and generates a digital receipt.
